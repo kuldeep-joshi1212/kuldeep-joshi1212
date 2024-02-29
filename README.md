@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kuldeep and I'm a Full Stack Developer. I am passionate for building technical solutions for real world problem.
+<p align="left">My name is Kuldeep and I'm a Full Stack Developer. I am passionate about building technical solutions for real world problem.
 
 ###
 
